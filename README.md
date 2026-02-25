@@ -105,7 +105,7 @@ focusstack-gui/
 ## Screenshots
 
 ### Files Tab
-![Files Tab](docs/files_tab.png)
+![Files Tab](tree/main/docs/files_tab.png)
 
 ### Align Tab
 ![Align Tab](docs/align_tab.png)
